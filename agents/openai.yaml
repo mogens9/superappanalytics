@@ -1,0 +1,4 @@
+interface:
+  display_name: "SuperAppAnalytics"
+  short_description: "Install StoreKit analytics into an iOS app"
+  default_prompt: "Use $superappanalytics to connect this iOS app to SuperAppAnalytics and verify the integration."
